@@ -26,7 +26,7 @@ It's a table...
 Data frames can contain multiple data types, but each column must only contain
 one type.
 
-A tibble is a type of data frame used by the {tidyverse} packages.
+A tibble is a type of data frame used by the 📦{tidyverse} packages.
 
 ---
 
@@ -65,7 +65,7 @@ depending on your OS.
 ![[Image: Allison Horst](https://allisonhorst.com)](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/57457fc3-1d2d-4a3b-a9b7-f0b62e418cd5_rw_1920.png?h=e0721f766fc8f031edeb67f7f8024595){fig-alt='A cartoon showing two paths side-by-side. On the left is a scary spooky forest, with spiderwebs and gnarled trees, with file paths written on the branches like “~/mmm/nope.csv” and “setwd(“/haha/good/luck/”), with a scared looking cute fuzzy monster running out of it. On the right is a bright, colorful path with flowers, rainbow and sunshine, with signs saying “here!” and “it’s all right here!” A monster facing away from us in a backpack and walking stick is looking toward the right path. Stylized text reads “here: find your path.”'}
 :::
 ::: {.column width="55%"}
-With the {here} package combined with an RStudio project we can use relative paths.
+With the 📦{here} package combined with an RStudio project we can use relative paths.
 
 This means we start the file path at the root of the project, and don't have to
 worry about anything that comes before.
