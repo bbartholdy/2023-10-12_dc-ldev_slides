@@ -10,4 +10,4 @@ and [Aleksandra Ewa Wilczynska](https://github.com/alwil), which were in turn
 based on my other slides... At this point it is basically a group effort!
 
 - Day 1/2: [Starting with Data](https://bbartholdy.github.io/2023-10-12_dc-ldev_slides/start-data.html)
-- Day 2: [R Markdown and Data Viz](https://bbartholdy.github.io/2023-10-12_dc-ldev_slides/rmark-and-viz.html)
+- Day 2: [Quarto and Data Viz](https://bbartholdy.github.io/2023-10-12_dc-ldev_slides/quarto-and-viz.html)
