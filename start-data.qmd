@@ -19,7 +19,7 @@ library(here)
 interviews <- read_csv(here("data/SAFI_clean.csv"), na = "NULL")
 ```
 
-## Objectives
+## Objectives {auto-animate="true"}
 
 - Describe what a data frame is.
 - Load external data from a .csv file into a data frame.
@@ -32,9 +32,19 @@ interviews <- read_csv(here("data/SAFI_clean.csv"), na = "NULL")
 - Examine and change date formats.
 
 
-## Data frames and tibbles {.center}
+## Objectives {auto-animate="true" .center}
+
+- Describe what a data frame is.
+
+[It's a table...]{.fragment}
+
+## Objectives {.center}
+
+- Describe what a data frame is. [👍]{.fragment}
 
 It's a table...
+
+## Data frames and tibbles {.center}
 
 Data frames can contain multiple data types, but each column must only contain
 one type.
