@@ -2,7 +2,7 @@
 title: "Days 1 and 2: Starting with Data"
 subtitle: "Data Carpentry for Social Sciences"  
 #institute: Leiden University, TU Delft, Erasmus University Rotterdam, Vrije Universiteit
-date: '2023-10-12 and 2023-10-13'
+date: today
 date-modified: today
 format: 
   revealjs: 
