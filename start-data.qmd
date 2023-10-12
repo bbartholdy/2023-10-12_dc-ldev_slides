@@ -19,6 +19,19 @@ library(here)
 interviews <- read_csv(here("data/SAFI_clean.csv"), na = "NULL")
 ```
 
+## Objectives
+
+- Describe what a data frame is.
+- Load external data from a .csv file into a data frame.
+- Summarize the contents of a data frame.
+- Subset values from data frames.
+- Describe the difference between a factor and a string.
+- Convert between strings and factors.
+- Reorder and rename factors.
+- Change how character strings are handled in a data frame.
+- Examine and change date formats.
+
+
 ## Data frames and tibbles {.center}
 
 It's a table...
@@ -139,3 +152,14 @@ memb_assoc <- factor(memb_assoc, levels = c("No", "Yes", "Undetermined"))
 plot(memb_assoc)
 ```
 
+## Objectives (again)
+
+- Describe what a data frame is.
+- Load external data from a .csv file into a data frame.
+- Summarize the contents of a data frame.
+- Subset values from data frames.
+- Describe the difference between a factor and a string.
+- Convert between strings and factors.
+- Reorder and rename factors.
+- Change how character strings are handled in a data frame.
+- Examine and change date formats.
